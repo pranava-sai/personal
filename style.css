@@ -1,0 +1,28 @@
+header {
+    background-color: #000000;
+    color: #ff0000;
+    padding: 10px 0;
+}
+
+nav ul {
+    list-style: none;
+    display: flex;
+    justify-content: center;
+}
+
+nav li {
+    margin: 0 20px;
+}
+
+nav a {
+    text-decoration: none;
+    color: #fff;
+}
+
+#Experience {
+    margin-left: 370px;
+}
+
+#Contact {
+    margin-top:-150px;
+}
